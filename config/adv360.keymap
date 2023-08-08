@@ -79,11 +79,11 @@
 
         layer_WINDOW_M {
             bindings = <
- &trans  &trans            &trans            &trans             &trans         &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans            &trans    &kp LA(LG(UP))             &trans         &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &kp LA(LG(LEFT))  &kp LA(LG(DOWN))  &kp LA(LG(RIGHT))  &kp LA(LG(F))            &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans            &trans     &kp LA(LC(C))       &kp LC(LEFT)  &kp LC(RIGHT)                            &trans                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans            &trans            &trans             &trans                           &trans  &trans  &trans                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
+ &trans  &trans            &trans            &trans             &trans         &trans            &trans                                                  &trans             &trans             &trans            &trans  &trans  &trans  &trans
+ &trans  &trans            &trans    &kp LA(LG(UP))             &trans         &trans            &trans                                                  &trans             &trans             &trans   &kp LG(KP_PLUS)  &trans  &trans  &trans
+ &trans  &trans  &kp LA(LG(LEFT))  &kp LA(LG(DOWN))  &kp LA(LG(RIGHT))  &kp LA(LG(F))            &trans  &trans  &trans                  &trans  &trans  &trans  &kp LC(LG(KP_N1))  &kp LC(LG(KP_N2))  &kp LG(KP_MINUS)  &trans  &trans  &trans
+ &trans  &trans            &trans     &kp LA(LC(C))       &kp LC(LEFT)  &kp LC(RIGHT)                            &trans                  &trans                             &trans             &trans            &trans  &trans  &trans  &trans
+ &trans  &trans            &trans            &trans             &trans                           &trans  &trans  &trans                  &trans  &trans  &trans                                &trans            &trans  &trans  &trans  &trans
             >;
         };
 
