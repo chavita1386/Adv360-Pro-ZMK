@@ -1,0 +1,18 @@
+[
+	{
+		"code": "&lt 1 TAB",
+		"name": "&lt 1 TAB",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&lt 1",
+		"name": "&lt 1",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]
