@@ -87,5 +87,15 @@
             >;
         };
 
+        layer_symbols {
+            bindings = <
+ &trans           &trans       &trans          &trans           &trans       &trans                  &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &kp EXCLAMATION  &kp AT_SIGN  &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp PERCENT            &kp ASTERISK                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans           &trans       &trans          &trans           &trans       &trans                  &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans           &trans       &trans          &trans           &trans       &trans                                  &trans                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans           &trans       &trans          &trans           &trans                               &trans  &trans  &trans                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
+            >;
+        };
+
     };
 };
