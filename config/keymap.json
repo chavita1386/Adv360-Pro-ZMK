@@ -9,7 +9,8 @@
     "mod",
     "WINDOW_M",
     "symbols",
-    "WINDOWS"
+    "WINDOWS",
+    "Symbols_Right"
   ],
   "layers": [
     [
@@ -54,6 +55,12 @@
               "&kp TAB",        "&kp A",        "&kp S",        "&kp D",        "&kp F",        "&kp G",           "&kp C_VOL_DN", "&tog 6", "&tog 0",                     "&trans",   "&trans", "&kp C_VOL_UP",  "&kp H",  "&kp J",     "&kp K",   "&kp L", "&kp SEMICOLON",         "&kp SQT",
        "&kp LEFT_SHIFT",        "&kp Z",        "&kp X",        "&kp C",        "&kp V",        "&kp B",                                     "&trans",                     "&trans",                              "&kp N",  "&kp M", "&kp COMMA", "&kp DOT",     "&kp SLASH", "&kp RIGHT_SHIFT",
                "&trans",       "&trans",       "&trans",       "&trans",       "&trans",                              "&kp ENTER", "&trans", "&trans",                     "&trans", "&kp BSPC",    "&kp SPACE",           "&trans",    "&trans",  "&trans",        "&trans",          "&trans"
+    ], [
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans",    "&trans",    "&trans",    "&trans",   "&trans",        "&trans",    "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&kp TILDE", "&kp MINUS", "&kp UNDER", "&kp PIPE", "&kp BACKSLASH", "&kp CARET",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",    "&trans",    "&trans",    "&trans",   "&trans",        "&trans",    "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                               "&trans",                     "&trans",                        "&trans",    "&trans",    "&trans",   "&trans",        "&trans",    "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                 "&trans",    "&trans",   "&trans",        "&trans",    "&trans"
     ]
   ]
 }

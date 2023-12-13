@@ -108,5 +108,15 @@
             >;
         };
 
+        layer_Symbols_Right {
+            bindings = <
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans     &trans     &trans     &trans    &trans         &trans     &trans
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &kp TILDE  &kp MINUS  &kp UNDER  &kp PIPE  &kp BACKSLASH  &kp CARET
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans                  &trans  &trans  &trans     &trans     &trans     &trans    &trans         &trans     &trans
+ &trans  &trans  &trans  &trans  &trans  &trans                            &trans                  &trans                     &trans     &trans     &trans    &trans         &trans     &trans
+ &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans                &trans     &trans    &trans         &trans     &trans
+            >;
+        };
+
     };
 };
